@@ -5,9 +5,9 @@
 package main
 
 import (
-	"code.google.com/p/rsc/devweb/slave"
+	"github.com/steevee/rsc/devweb/slave"
 
-	_ "code.google.com/p/rsc/blog/post"
+	_ "github.com/steevee/rsc/blog/post"
 )
 
 func main() {

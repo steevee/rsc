@@ -12,7 +12,7 @@
 //	package main
 //
 //	import (
-//		"code.google.com/p/rsc/devweb/slave"
+//		"github.com/steevee/rsc/devweb/slave"
 //
 //		_ "this/package"
 //		_ "that/package"

@@ -14,7 +14,7 @@
 //
 //	import (
 //		"net/http"
-//		"code.google.com/p/rsc/websrv"
+//		"github.com/steevee/rsc/websrv"
 //	)
 //
 //	func main() {
